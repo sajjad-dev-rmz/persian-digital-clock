@@ -1,0 +1,16 @@
+.time {
+    width: 100%;
+}
+
+.time span {
+    font-size: 75px;
+    font-weight: 600;
+    margin: 0 10px;
+    color: #fff;
+}
+
+.time .div-date span {
+    font-size: 35px;
+    display: inline-block;
+    margin-top: 15px;
+}
